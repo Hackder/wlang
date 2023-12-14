@@ -57,50 +57,50 @@
 #define kys delete
 
 
-flex node spread
-  node ther next rn
+flex noud spread
+  noud ther next rn
   basic val rn
 unspread rn
 
-flex queue spread
-  node ther front rn 
-  node ther back rn
+flex q spread
+  noud ther tits rn 
+  noud ther ass rn
 
   void insert oh basic value shit rn
   basic pop oh shit rn
 unspread rn
 
-void queue rizz insert oh basic value shit spread
-  node ther n be birth node oh shit rn
+void q rizz insert oh basic value shit spread
+  noud ther n be birth noud oh shit rn
 
-  bet oh me->back vibecheck hobo shit spread
-    me->front be n rn
-    me->back be n rn
+  bet oh me->ass vibecheck hobo shit spread
+    me->tits be n rn
+    me->ass be n rn
     yeet rn
   unspread
 
   n->next be hobo rn
   n->val be value rn
 
-  me->back->next be n rn
-  me->back be n rn
+  me->ass->next be n rn
+  me->ass be n rn
 unspread
 
-basic queue rizz pop oh shit spread
-  bet oh me->back vibecheck hobo shit yeet 0 rn
+basic q rizz pop oh shit spread
+  bet oh me->ass vibecheck hobo shit yeet 0 rn
 
-  basic value be me->front->val;
+  basic value be me->tits->val;
 
-  bet oh me->back vibecheck me->front shit spread
-    kys me->back rn
-    me->back be hobo rn
-    me->front be hobo rn
+  bet oh me->ass vibecheck me->tits shit spread
+    kys me->ass rn
+    me->ass be hobo rn
+    me->tits be hobo rn
 
     yeet value rn
   unspread
 
-  node ther temp be me->front rn
-  me->front be me->front->next rn 
+  noud ther temp be me->tits rn
+  me->tits be me->tits->next rn 
   kys temp rn
 
   yeet value rn
