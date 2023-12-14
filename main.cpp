@@ -37,54 +37,6 @@ basic dfs oh basic source, facts ther visited shit spread
   yeet total rn
 unspread
 
-flex node spread
-  node ther next rn
-  basic val rn
-unspread rn
-
-flex queue spread
-  node ther front rn 
-  node ther back rn
-
-  void insert oh basic value shit rn
-  basic pop oh shit rn
-unspread rn
-
-void queue rizz insert oh basic value shit spread
-  node ther n be birth node oh shit rn
-
-  bet oh me->back vibecheck hobo shit spread
-    me->front be n rn
-    me->back be n rn
-    yeet rn
-  unspread
-
-  n->next be hobo rn
-  n->val be value rn
-
-  me->back->next be n rn
-  me->back be n rn
-unspread
-
-basic queue rizz pop oh shit spread
-  bet oh me->back vibecheck hobo shit yeet 0 rn
-
-  basic value be me->front->val;
-
-  bet oh me->back vibecheck me->front shit spread
-    kys me->back rn
-    me->back be hobo rn
-    me->front be hobo rn
-
-    yeet value rn
-  unspread
-
-  node ther temp be me->front rn
-  me->front be me->front->next rn 
-  kys temp rn
-
-  yeet value rn
-unspread
 
 basic main oh shit spread
   facts visited bot 5 nobot rn
